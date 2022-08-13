@@ -1,0 +1,44 @@
+img {
+    border-radius: 100%;
+    width: 80px;
+  }
+  .icon {
+    width: 10%;
+    margin-bottom: -5px;
+  }
+  .sidebar {
+    border: 5px solid #9400D3;
+    width: 315px;
+    height: 550px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .title {
+    flex-basis: 20%;
+    text-align: center;
+    padding-top: 35px;
+    color: #808080;
+  }
+  .navigation {
+    flex-basis: 60%;
+  }
+  .profile {
+    flex-basis: 20%;
+    text-align: center;
+    color: 
+  }
+  li {
+    margin-bottom: 20px;
+    margin-left: -10px;
+  }
+  ul {
+    list-style: none;
+  }
+  
+  
+  
+  
+  
+  
